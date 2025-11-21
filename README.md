@@ -56,11 +56,7 @@ O projeto segue os princípios SOLID com separação clara de responsabilidades:
 - Fluxo principal de execução
 - Tratamento de inputs do usuário
 
-#### `distancias_rodovias.py`
-**Responsabilidade**: Exemplo prático e demonstração
-- Implementação de exemplo com Campina Grande-PB
-- Demonstração das funcionalidades
-- Casos de uso práticos
+
 
 ## 🚀 Como Usar
 
@@ -88,7 +84,6 @@ O programa solicitará:
 1. **Nome da cidade** (ex: "São Paulo, São Paulo, Brazil")
 2. **Coordenadas de origem** (latitude, longitude)  
 3. **Coordenadas de destino** (latitude, longitude)
-4. **Nome do arquivo** para salvar o mapa
 
 ### Uso Programático
 
@@ -122,24 +117,6 @@ visualizador.salvar_mapa("minha_rota.html")
 python distancias_rodovias.py
 ```
 
-
-
-## 🤝 Como Contribuir
-
-1. **Fork** o repositório
-2. Crie uma **branch** para sua feature (`git checkout -b feature/nova-funcionalidade`)
-3. **Commit** suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
-4. **Push** para a branch (`git push origin feature/nova-funcionalidade`)
-5. Abra um **Pull Request**
-
-### Áreas de Contribuição
-
-- 🚗 Diferentes tipos de transporte (bicicleta, pedestres)
-- 🌍 Suporte a múltiplas cidades simultaneamente
-- 📱 Interface web/mobile
-- 🔄 Otimizações de performance
-- 📊 Métricas avançadas (tempo, combustível)
-- 🎨 Temas visuais personalizáveis
 
 ## 📄 Licença
 
