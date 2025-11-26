@@ -112,11 +112,16 @@ visualizador.salvar_mapa("minha_rota.html")
 
 ### Exemplo Pronto
 
+
+
 ```bash
 # Executar exemplo com dados de Campina Grande
 python distancias_rodovias.py
 ```
-
+# Dados Estatisticos
+### Distribuição do tempo de execução (população com distribuição normal):
+<img width="1366" height="653" alt="grafico2" src="https://github.com/user-attachments/assets/e7d5612d-180a-47da-86d2-a362a54513f3" />
+<img width="1366" height="653" alt="Figure_1" src="https://github.com/user-attachments/assets/13a176d7-7c2c-4304-847d-640a7dd701f5" />
 
 ## 📄 Licença
 
