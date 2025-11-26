@@ -7,6 +7,7 @@ def test_init_default():
     loader = GrafoLoader()
     assert loader.network_type == "drive"
 
+
 @patch("grafo_loader.ox.save_graphml")
 @patch("grafo_loader.ox.graph_from_place")
 def test_carregar_grafo(mock_graph_from_place, mock_save_graphml):
